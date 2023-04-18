@@ -1,0 +1,14 @@
+C:\Users\blandonm\Documents\Cursos\TimCorey\How-to-connect-C-Sharp-to-SQL-the-easy-way\SQLDataAccessDemo\FormUI\obj\Debug\FormUI.csproj.AssemblyReference.cache
+C:\Users\blandonm\Documents\Cursos\TimCorey\How-to-connect-C-Sharp-to-SQL-the-easy-way\SQLDataAccessDemo\FormUI\obj\Debug\FormUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\blandonm\Documents\Cursos\TimCorey\How-to-connect-C-Sharp-to-SQL-the-easy-way\SQLDataAccessDemo\FormUI\obj\Debug\FormUI.Dashboard.resources
+C:\Users\blandonm\Documents\Cursos\TimCorey\How-to-connect-C-Sharp-to-SQL-the-easy-way\SQLDataAccessDemo\FormUI\obj\Debug\FormUI.Properties.Resources.resources
+C:\Users\blandonm\Documents\Cursos\TimCorey\How-to-connect-C-Sharp-to-SQL-the-easy-way\SQLDataAccessDemo\FormUI\obj\Debug\FormUI.csproj.GenerateResource.cache
+C:\Users\blandonm\Documents\Cursos\TimCorey\How-to-connect-C-Sharp-to-SQL-the-easy-way\SQLDataAccessDemo\FormUI\obj\Debug\FormUI.csproj.CoreCompileInputs.cache
+C:\Users\blandonm\Documents\Cursos\TimCorey\How-to-connect-C-Sharp-to-SQL-the-easy-way\SQLDataAccessDemo\FormUI\bin\Debug\FormUI.exe.config
+C:\Users\blandonm\Documents\Cursos\TimCorey\How-to-connect-C-Sharp-to-SQL-the-easy-way\SQLDataAccessDemo\FormUI\bin\Debug\FormUI.exe
+C:\Users\blandonm\Documents\Cursos\TimCorey\How-to-connect-C-Sharp-to-SQL-the-easy-way\SQLDataAccessDemo\FormUI\bin\Debug\FormUI.pdb
+C:\Users\blandonm\Documents\Cursos\TimCorey\How-to-connect-C-Sharp-to-SQL-the-easy-way\SQLDataAccessDemo\FormUI\bin\Debug\Dapper.dll
+C:\Users\blandonm\Documents\Cursos\TimCorey\How-to-connect-C-Sharp-to-SQL-the-easy-way\SQLDataAccessDemo\FormUI\bin\Debug\Dapper.xml
+C:\Users\blandonm\Documents\Cursos\TimCorey\How-to-connect-C-Sharp-to-SQL-the-easy-way\SQLDataAccessDemo\FormUI\obj\Debug\FormUI.csproj.CopyComplete
+C:\Users\blandonm\Documents\Cursos\TimCorey\How-to-connect-C-Sharp-to-SQL-the-easy-way\SQLDataAccessDemo\FormUI\obj\Debug\FormUI.exe
+C:\Users\blandonm\Documents\Cursos\TimCorey\How-to-connect-C-Sharp-to-SQL-the-easy-way\SQLDataAccessDemo\FormUI\obj\Debug\FormUI.pdb

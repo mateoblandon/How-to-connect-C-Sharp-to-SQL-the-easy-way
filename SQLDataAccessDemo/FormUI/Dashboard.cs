@@ -12,9 +12,29 @@ namespace FormUI
 {
   public partial class Dashboard : Form
   {
+    List<Person> people = new List<Person>();
     public Dashboard()
     {
       InitializeComponent();
+      peopleFoundListbox.DataSource = people;
+      peopleFoundListbox.DisplayMember = "FullInfo";
+    }
+
+    private void searchButton_Click(object sender, EventArgs e)
+    {
+      DataAccess db = new DataAccess();
+      people = db.GetPeople(lastNameText.Text);
+      peopleFoundListbox.DataSource = people;
+    }
+
+    private void InsertButton_Click(object sender, EventArgs e)
+    {
+      DataAccess db = new DataAccess();
+      db.InsertPerson(firstNameInsTextbox.Text, lastNameInsTextbox.Text, emailAddressInsTextbox.Text, phoneNumberInsTextbox.Text);
+      firstNameInsTextbox.Text = "";
+      lastNameInsTextbox.Text = "";
+      emailAddressInsTextbox.Text = "";
+      phoneNumberInsTextbox.Text = "";
     }
   }
 }
